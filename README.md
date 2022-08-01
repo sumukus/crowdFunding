@@ -1,5 +1,5 @@
 # Crowdfunding
-This is a crowdfunding application developed in ethereum blockchain. It uses the Rinkeby Test Network for development purpose. It is developed by following the online course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) from udemy. The author has explained very nicely.
+This is a crowdfunding application developed in ethereum blockchain. It uses the Rinkeby Test Network for development purpose. It is developed by following the online course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) from udemy. The author has explained very nicely. It is simple and easy to understand. If you want to learn in detail I would recommend you to take this course.
 
 
 ## Installation
