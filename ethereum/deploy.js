@@ -4,8 +4,8 @@ const Web3 = require("web3");
 const crowdFundingFactory = require("./build/crowdFundingFactory.json");
 
 const provider = new HDWalletProvider(
-    'enlist check cause warrior never disease clump crew answer dolphin warfare wasp',
-    'https://rinkeby.infura.io/v3/bc5ea1e469cf4097b80cd0a25506e9ca'
+    //Enter metamask passphrase, 
+    //Enter the infura link to the rinkeby test network
 );
 
 const web3 = new Web3(provider);
