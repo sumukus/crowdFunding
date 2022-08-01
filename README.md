@@ -21,4 +21,11 @@ cd crowdFunding
 npm install
 ```
 ### Install Metamask
-Install the metamask in your browser and create an account. Make sure, you keep the passphrase safely so that we can use later on. You can download and configure metamask from [MetaMask](https://metamask.io/download/)
+Install the metamask in your browser and create an account. Make sure to keep the passphrase safely so that we can use later on. You can download and configure metamask from [MetaMask](https://metamask.io/download/)
+
+## Run the Application
+You can now run the application using the command:
+```
+npm run dev
+```
+Now open the browser and go to the address [localhost:3000](localhost:3000)
