@@ -4,16 +4,21 @@ This is a crowdfunding application developed in ethereum blockchain. It uses the
 
 ## Installation
 
+### Node.js 
+
 Make sure that you install the Node.js in your machine.  You can follow [Installing Node.js using package manager](https://nodejs.org/en/download/package-manager/) post.
 
+### Clone Repository
 Clone this repository using the command given below:
 ```
 git clone https://github.com/sumukus/crowdFunding.git
 ```
-
-Once you clonned this repository, you can install the project dependecies using the command:
+### Install Project Dependencies
+Once you clonned this repository, you can install the project dependecies from the root directory of this project
+using the command:
 ```
 cd crowdFunding
 npm install
 ```
-from the root directory of this project.
+### Install Metamask
+Install the metamask in your browser and create an account. Make sure, you keep the passphrase safely so that we can use later on. You can download and configure metamask from [MetaMask](https://metamask.io/download/)
