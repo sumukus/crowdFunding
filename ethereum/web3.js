@@ -1,7 +1,5 @@
 import Web3 from "web3";
 
-const accessToken = process.env.INFURA_ACCESS_TOKEN;
-
 let web3;
 
 if (typeof window !== 'undefined' && typeof window.web3 !== 'undefined') {
