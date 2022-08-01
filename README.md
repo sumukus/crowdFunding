@@ -28,4 +28,4 @@ You can now run the application using the command:
 ```
 npm run dev
 ```
-Now open the browser and go to the address [localhost:3000](localhost:3000)
+Now open the browser and go to the address [localhost:3000](http://localhost:3000/)
