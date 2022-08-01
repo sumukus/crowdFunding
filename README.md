@@ -3,4 +3,4 @@ This is a crowdfunding application developed in ethereum blockchain. It uses the
 
 ##Configuration
 
-Make sure that you install the NodeJs in you machine.  [You can follow this post](https://nodejs.org/en/download/package-manager/)
+Make sure that you install the NodeJs in you machine.  You can follow [Installing nodejs using package manager](https://nodejs.org/en/download/package-manager/) post.
