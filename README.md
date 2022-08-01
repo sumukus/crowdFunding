@@ -8,11 +8,12 @@ Make sure that you install the Node.js in your machine.  You can follow [Install
 
 Clone this repository using the command given below:
 ```
-https://github.com/sumukus/crowdFunding.git
+git clone https://github.com/sumukus/crowdFunding.git
 ```
 
-Once you install the Node.js, you can install the project dependecies using the command:
+Once you clonned this repository, you can install the project dependecies using the command:
 ```
+cd crowdFunding
 npm install
 ```
 from the root directory of this project.
